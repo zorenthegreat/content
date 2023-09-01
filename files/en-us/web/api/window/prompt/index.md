@@ -10,7 +10,7 @@ browser-compat: api.Window.prompt
 
 `window.prompt()` instructs the browser to display a dialog with an optional message prompting the user to input some text, and to wait until the user either submits the text or cancels the dialog.
 
-Under some conditions — for example, when the user switches tabs — the browser may not actually display a dialog, or may not wait for the user to submit text or to cancel the dialog.
+Under some conditions — for example, when the user switch tabs — the browser may not actually display a dialog, or may not wait for the user to submit text or to cancel the dialog.
 
 ## Syntax
 
